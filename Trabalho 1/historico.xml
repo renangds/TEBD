@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<historico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <nome>Andreia Dos Santos de Oliveira</nome>
+    <matricula>2014780062</matricula>
+    <curso>Ciência da Computação</curso>
+    <codigocurso>DCC</codigocurso>
+    <anoingresso>2014</anoingresso>
+
+    <disciplinas>
+        <periodo>1º</periodo>
+        <codigo>DCC001</codigo>
+        <credito>4</credito>
+        <nome></nome>
+        <nota></nota>
+        <situacao></situacao>
+
+        <periodo>1º</periodo>
+        <codigo>DCC002</codigo>
+        <credito>4</credito>
+        <nome>Computação 1</nome>
+        <nota>5.0</nota>
+        <situacao>AP</situacao>
+
+        <periodo>1º</periodo>
+        <codigo>DCC003</codigo>
+        <credito>4</credito>
+        <nome>Algebra Linear</nome>
+        <nota>7.0</nota>
+        <situacao>AP</situacao>
+
+        <periodo>1º</periodo>
+        <codigo>DCC004</codigo>
+        <credito>4</credito>
+        <nome>Geometria Analítica</nome>
+        <nota>3.5</nota>
+        <situacao>RM</situacao>
+
+        <periodo>1º</periodo>
+        <codigo>DCC005</codigo>
+        <credito>4</credito>
+        <nome>Intro.Ciência da Computação</nome>
+        <nota>5.9</nota>
+        <situacao>AP</situacao>
+
+        <periodo>2º</periodo>
+        <codigo>DCC006</codigo>
+        <credito></credito>
+        <nome>Calculo 1</nome>
+        <nota>9.0</nota>
+        <situacao>AP</situacao>
+
+        <periodo>2º</periodo>
+        <codigo>DCC007</codigo>
+        <credito></credito>
+        <nome>Circuitos Digitais</nome>
+        <nota>5.3</nota>
+        <situacao>AP</situacao>
+
+        <periodo>2º</periodo>
+        <codigo>DCC008</codigo>
+        <credito></credito>
+        <nome>Algebra Linear Computacional</nome>
+        <nota>6.5</nota>
+        <situacao>AP</situacao>
+
+        <periodo>2º</periodo>
+        <codigo>DCC009</codigo>
+        <credito></credito>
+        <nome>Computação 2</nome>
+        <nota>4.7</nota>
+        <situacao>RM</situacao>
+    </disciplinas>
+</historico>

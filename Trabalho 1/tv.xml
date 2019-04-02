@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programacao>
+    <dia>
+        <data></data>
+        <turno></turno>
+        <horario></horario>
+        <programa></programa>
+    </dia>
+</programacao>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<historico root='true' xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <elemento>
+        <nome></nome>
+        <tipo></tipo>
+    </elemento>
+
+    <elemento>
+        <matricula></matricula>
+        <tipo></tipo>
+    </elemento>
+
+    <elemento>
+        <curso></curso>
+        <tipo></tipo>
+    </elemento>
+    
+    <elemento>
+        <codigocurso></codigocurso>
+        <tipo></tipo>
+    </elemento>
+
+    <elemento>
+        <anoingresso></anoingresso>
+        <tipo></tipo>
+    </elemento>
+
+    <disciplinas>
+        <disciplina>
+            <elemento>
+                <periodo></periodo>
+                <tipo></tipo>
+            </elemento>
+
+            <elemento>
+                <codigo></codigo>
+                <tipo></tipo>
+            </elemento>
+            
+            <elemento>
+                <credito></credito>
+                <tipo></tipo>
+            </elemento>
+            
+            <elemento>
+                <nome></nome>
+                <tipo></tipo>
+            </elemento>
+
+            <elemento>
+                <nota></nota>
+                <tipo></tipo>
+            </elemento>
+
+            <elemento>
+                <situacao></situacao>
+                <tipo></tipo>
+            </elemento>
+        </disciplina>
+    </disciplinas>
+</historico>
