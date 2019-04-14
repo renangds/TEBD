@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<historico>
+    <nome>Renan</nome>
+    <matricula>2014780550</matricula>
+    <curso>Ciência da Computação</curso>
+    <codigocurso>DCC</codigocurso>
+    <anoingresso>2014</anoingresso>
+
+    <disciplinas>
+        <disciplina>
+            <periodo>1</periodo>
+            <codigo>DCC001</codigo>
+            <credito>4</credito>
+            <nome>Computação 1</nome>
+            <nota>8</nota>
+            <situacao>APR</situacao>
+        </disciplina>
+    </disciplinas>
+</historico>
